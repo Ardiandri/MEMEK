@@ -1,6 +1,1 @@
-ZMODS 4.0A
-dhdk
-hddj
-hddj
-hdsj
-bsjd
+-5.0 ZMODS
